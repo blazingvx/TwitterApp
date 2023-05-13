@@ -1,5 +1,30 @@
 # Social Media Sentiment Analysis Dashboard
 
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⠀⠀⠀⠀⣀
+⠀⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣶⣶⡿⢋
+⠀⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋
+⠀⠹⣿⣿⣿⣿⣶⣤⣤⣤⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
+⠀⣄⣈⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
+⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀
+⠀⠀⣀⣉⣛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀
+⠀⠀⠘⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢉⣩⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀
+⠒⠶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠉⠙⠛⠛⠛⠛⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+   _____            _   _                      _                          _           _     
+  / ____|          | | (_)                    | |       /\               | |         (_)    
+ | (___   ___ _ __ | |_ _ _ __ ___   ___ _ __ | |_     /  \   _ __   __ _| |_   _ ___ _ ___ 
+  \___ \ / _ \ '_ \| __| | '_ ` _ \ / _ \ '_ \| __|   / /\ \ | '_ \ / _` | | | | / __| / __|
+  ____) |  __/ | | | |_| | | | | | |  __/ | | | |_   / ____ \| | | | (_| | | |_| \__ \ \__ \
+ |_____/ \___|_| |_|\__|_|_| |_| |_|\___|_| |_|\__| /_/    \_\_| |_|\__,_|_|\__, |___/_|___/
+                                                                             __/ |          
+                                                                            |___/           
+
+</pre>
+
 ## Overview
 The popularity of social media platforms has witnessed significant growth with the advent of faster internet networks and the availability of cheaper digital devices, particularly smartphones. This increased usage of social media, including micro-blogging platforms like Twitter, has led people to express their views instantly on these platforms. Both political parties and citizens are keen to understand the sentiments of the masses. 
 
@@ -37,3 +62,7 @@ Please ensure that your contributions align with the project's objectives and ad
 
 ## License
 This project is licensed under the [MIT License](LICENSE). You are free to modify, distribute, and use the code for personal and commercial purposes. Attribution to the original authors is appreciated.
+
+[//]: https://choosealicense.com/licenses/mit/
+[//]: https://patorjk.com/software/taag/#p=display&f=Big&t=Sentiment%20Analysis
+[//]: https://emojicombos.com/twitter-ascii-art
